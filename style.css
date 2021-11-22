@@ -1,0 +1,31 @@
+/* Enter your CSS here :) */
+
+  .btn-sm{
+      color: #ffffff;
+      background-color: #11324d;
+      border: solid 2px;
+      border-radius: 8px;
+      border-color: #ffffff;
+  }
+
+  #search{
+      font-size: 17px;
+      border: solid 2px;
+      border-radius: 9px;
+      border-color: #a0a0a0;
+  }
+
+  .firstsection{
+      height: 400px;
+      background-color: #f0d9ff;
+  }
+
+  .secondsection{
+      height: 400px;
+      background-color: #c68b59;
+  }
+
+  .thirdsection{
+      height: 400px;
+      background-color: #d5eebb;
+  }
